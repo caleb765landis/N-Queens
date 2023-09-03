@@ -1,3 +1,6 @@
+# N-Queens
+## My solution to the N-Queens problem.
+
 To run the N_Queens program, use "make run".
 
 Once the program starts, the terminal will be cleared, and users will be asked to input a number (N) that is greater than 3 and less than or equal to 20.
